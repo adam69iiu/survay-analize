@@ -71,19 +71,8 @@ Each question is visualized with the most appropriate chart (bar, scatter, pie, 
 
 ## 5. How to Use the Dashboard
 
-1. **Install requirements:**
-   - Python 3.8+
-   - Install dependencies:
-     ```bash
-     pip install streamlit pandas plotly numpy scipy scikit-learn statsmodels
-     ```
-2. **Prepare your data:**
-   - Use a CSV file with the columns listed above (see `response.csv` for an example).
-3. **Run the dashboard:**
-   ```bash
-   streamlit run gg.py
-   ```
-4. **Upload your CSV file** in the web interface and explore the analytics and insights.
+
+ **Upload your CSV file** in the web interface and explore the analytics and insights.
 
 ---
 
